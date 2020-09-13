@@ -1,4 +1,4 @@
-## Material Color Android
+## Material Color Code Android
 
 
     <color name="red_50">#FFEBEE</color>
