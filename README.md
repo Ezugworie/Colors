@@ -1,6 +1,3 @@
-# Colors
-Material Design Color Palette Colors.xml Resource file for Android
-
 ![ScreenShot](https://raw.github.com/MatthewYork/Resources/master/Colours-Android/ColoursBanner.png)
 
 
