@@ -1,6 +1,6 @@
 ## Material Color Code Android
 
-  <a hrc="https://www.colorbox.io/#steps=11#hue_start=315#hue_end=293#hue_curve=easeInQuad#sat_start=4#sat_end=90#sat_curve=easeOutQuad#sat_rate=130#lum_start=100#lum_end=53#lum_curve=easeOutQuad#minor_steps_map=0" />
+  <a href="https://www.colorbox.io/#steps=11#hue_start=315#hue_end=293#hue_curve=easeInQuad#sat_start=4#sat_end=90#sat_curve=easeOutQuad#sat_rate=130#lum_start=100#lum_end=53#lum_curve=easeOutQuad#minor_steps_map=0" />
     <color name="red_50">#FFEBEE</color>
     <color name="red_100">#FFCDD2</color>
     <color name="red_200">#EF9A9A</color>
